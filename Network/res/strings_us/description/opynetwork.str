@@ -1,0 +1,12 @@
+STRINGTABLE opynetwork
+{
+	opynetwork "Network";
+
+	ID_NETWORK_INPUTLINKLIST "Objects";
+	ID_NETWORK_MAXDISTANCE "Max Distance";
+	ID_NETWORK_MAXCONNECTIONS "Max Connections";
+	ID_NETWORK_SCRAMBLER "Scrambler";
+	ID_NETWORK_SCRAMBLESEED "Seed";
+	ID_NETWORK_FIELDGROUP "Field";
+	ID_NETWORK_FIELD "Field";
+}
